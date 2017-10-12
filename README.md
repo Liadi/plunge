@@ -5,7 +5,7 @@ My first plunge into the languages, and frameworks used. Mostly, old projects.
 
 
 Java
-* Calcultor
+* Calculator
 * Number Converter
 * Puzzle
 
