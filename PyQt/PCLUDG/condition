@@ -1,0 +1,28 @@
+Start Game and answer the question displayed here, by clicking the True or False button below;
+Each question is timed!!!
+Is row greater than column?@0@RC
+Is row less than column?@1@RC
+Is row greater than or equal to column?@2@RC
+Is row less than or equal to column?@3@RC
+Is row equal to column?@4@RC
+Is row S greater than row T?@10@RR
+Is row S greater than column T?@10@RC
+Is column S greater than column T?@10@CC
+Is column S greater than row T?@10@CR
+Is row S less than row T?@01@RR
+Is row S less than column T?@01@RC
+Is column S less than column T?@01@CC
+Is column S less than row T?@01@CR
+Is row S equal to row T?@00@RR
+Is row S equal to column T?@00@RC
+Is column S equal to column T?@00@CC
+Is column S equal to row T?@00@CR
+Is row S greater than or equal to row T?@101@RR
+Is row S greater than or equal to column T?@101@RC
+Is column S greater than or equal to column T?@101@CC
+Is column S greater than or equal to row T?@101@CR
+Is row S less than or equal to row T?@010@RR
+Is row S less than or equal to column T?@010@RC
+Is column S less than or equal to column T?@010@CC
+Is column S less than or equal to row T?@010@CR
+Does any combination of the row and column of S, T, and U make a PYTHAGORAS TRIPLE?,=.-=

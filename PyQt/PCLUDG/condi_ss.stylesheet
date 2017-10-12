@@ -1,0 +1,8 @@
+QPushButton#prBtn
+{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: #9486ff
+
+}
